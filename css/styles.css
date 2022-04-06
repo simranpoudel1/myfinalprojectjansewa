@@ -104,6 +104,9 @@ section{
  #about .section-details img{
  	margin-right: 20px;
  }
+ #about .about-content p span{
+ 	color:#C51F8C;
+ }
 
  #contact{
  	background-color: #DDDDDD;
